@@ -1,0 +1,12 @@
+fastapi==0.116.1
+uvicorn==0.35.0
+python-dotenv==1.1.1
+openai==1.97.0
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+nltk==3.9.1
+bert-score==0.3.13
+rouge-score==0.1.2
