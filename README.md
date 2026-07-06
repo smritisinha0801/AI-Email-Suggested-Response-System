@@ -211,7 +211,9 @@ Hi, I ordered a laptop 10 days ago but it hasn't arrived yet.
 Output
 Hi, I ordered a laptop 10 days ago but it hasn't arrived yet.
 
----
+
+<img width="1292" height="773" alt="Screenshot 2026-07-06 164907" src="https://github.com/user-attachments/assets/5d4a71d0-3d42-4b30-9d3a-18776aecdb68" />
+
 
 # AI Tools Used
 
