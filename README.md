@@ -209,13 +209,7 @@ Hi, I ordered a laptop 10 days ago but it hasn't arrived yet.
 ```
 
 Output
-
-- AI Suggested Response
-- Retrieved Similar Emails
-- BLEU Score
-- ROUGE-L
-- Cosine Similarity
-- Overall System Quality Score
+Hi, I ordered a laptop 10 days ago but it hasn't arrived yet.
 
 ---
 
