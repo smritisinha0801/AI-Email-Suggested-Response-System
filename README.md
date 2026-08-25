@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Retrieval-Augmented Generation (RAG) based AI Email Suggested Response System developed as part of the Hiver AI Intern Build Challenge.
+This project is a Retrieval-Augmented Generation (RAG) based AI Email Suggested Response System developed.
 
 The system takes an incoming customer email, retrieves the most similar historical emails using semantic search, generates an AI-powered suggested response using Google's Gemini LLM, and evaluates the generated response using multiple accuracy metrics.
 
